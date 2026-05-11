@@ -59,9 +59,11 @@ race_rc_project/
 
 ## quick-run help, if you have already the project structure setup:
 
+```bash
 cd race_rc_project
 pip install -r requirements.txt
 streamlit run ui/app.py
+```
 
 ---
 
